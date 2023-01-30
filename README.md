@@ -1,6 +1,8 @@
 # Projects
 
-This repository contains my Data Science personal projects. Please get in touch if you have any questions - ginta.grinfelde@gmail.com
+This repository contains my personal Data Science projects. Please get in touch if you have any questions - ginta.grinfelde@gmail.com
+
+## Contents:
 
 1. Data Scraping / Ottawa Housing Market
 - Data scraping from an Ottawa real estate website using Python and Beautiful Soup package.
